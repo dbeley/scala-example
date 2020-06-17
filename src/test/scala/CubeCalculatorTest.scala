@@ -8,5 +8,4 @@ class CubeCalculatorTest extends FunSuite {
     assert(CubeCalculator.cube(10) === 1000)
     assert(CubeCalculator.cube(0) === 0)
   }
-
 }
